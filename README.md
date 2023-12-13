@@ -231,6 +231,6 @@
 
 ## 노션 활용
 
-[<img style="width: 10px;" src="./readme_assets/images/notion1.JPG" alt="notion">](https://dong82.notion.site/011c84e3500748acb05c4b0751141c6f?pvs=4) [<img style="width: 10px;" src="./readme_assets/images/notion2.JPG" alt="notion">](https://dong82.notion.site/011c84e3500748acb05c4b0751141c6f?pvs=4)
+[<img style="width: 300px;" src="./readme_assets/images/notion1.JPG" alt="notion">](https://dong82.notion.site/011c84e3500748acb05c4b0751141c6f?pvs=4) [<img style="width: 300px;" src="./readme_assets/images/notion2.JPG" alt="notion">](https://dong82.notion.site/011c84e3500748acb05c4b0751141c6f?pvs=4)
 
 ※ 이미지 클릭시 Notion 이동
