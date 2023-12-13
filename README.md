@@ -106,71 +106,71 @@
 
 ### 민원 - 통화 기능
 
-![전화걸기](./readme_assets/main/전화 걸기.gif)
+![전화걸기](./readme_assets/main/전화 걸기.gif){:width="450px"}
 
 - 교사는 학생, 학부모에게, 학생과 학부모는 교사에게 전화를 걸 수 있다.
 
-![전화받기](./readme_assets/main/전화 받기.gif)
+![전화받기](./readme_assets/main/전화 받기.gif){:width="450px"}
 
 - 걸려온 전화를 받을 수 있다.
 
-![선생님방해금지설정](./readme_assets/main/선생님 방해금지 설정.gif)
+![선생님방해금지설정](./readme_assets/main/선생님 방해금지 설정.gif){:width="450px"}
 
 - 교사는 특정 시간대에 전화와 채팅 알림을 받을 수 없게 설정할 수 있다.
 
 ### 민원 - 채팅 기능
 
-![채팅하기](./readme_assets/main/채팅하기.gif)
+![채팅하기](./readme_assets/main/채팅하기.gif){:width="450px"}
 
 - 교사는 학생, 학부모와, 학생과 학부모는 교사와 채팅을 할 수 있다.
 
-![악성채팅필터](./readme_assets/main/악성 채팅 필터.gif)
+![악성채팅필터](./readme_assets/main/악성 채팅 필터.gif){:width="450px"}
 
 - 메세지가 욕설 등을 포함할 경우 채팅 필터로 채팅 전송이 불가능하게 된다.
 
 ### 민원 - 관리자 페이지
 
-![악성민원웹신고](./readme_assets/main/악성민원 웹신고.gif)
+![악성민원웹신고](./readme_assets/main/악성민원 웹신고.gif){:width="450px"}
 
 - AI 분석된 민원(통화, 채팅)을 웹 관리자 페이지에서 확인 가능하다.
 
 ### 민원 - 상담, 신고 서비스
 
-![신고하기](./readme_assets/main/신고하기.gif)
-![선생님상담,신고확인](./readme_assets/main/선생님 상담, 신고확인.gif)
+![신고하기](./readme_assets/main/신고하기.gif){:width="450px"}
+![선생님상담,신고확인](./readme_assets/main/선생님 상담, 신고확인.gif){:width="450px"}
 
 - 학부모는 상담 신청, 학생은 신고(학교폭력 등)가 가능하고 교사는 상담, 신고 민원을 어플에서 확인 가능하다.
 
 ### 커뮤니티
 
-![자유게시판상단메뉴](./readme_assets/main/자유게시판 상단 메뉴.gif)
+![자유게시판상단메뉴](./readme_assets/main/자유게시판 상단 메뉴.gif){:width="450px"}
 
 - 학생, 학부모, 교사는 커뮤니티 서비스를 이용 가능하나, 유저 종류에 따라 사용할 수 있는 메뉴가 달라진다.
 
-![자유게시판글쓰기](./readme_assets/main/자유게시판 글쓰기.gif)
+![자유게시판글쓰기](./readme_assets/main/자유게시판 글쓰기.gif){:width="450px"}
 
 - 학생은 익명 자유게시판에 글을 작성할 수 있다.
 
 ### 회원 서비스
 
-![회원가입](./readme_assets/main/회원가입.gif)
+![회원가입](./readme_assets/main/회원가입.gif){:width="450px"}
 
 - 학생과 학부모는 어플로 회원가입이 가능하다.
 
-![학생로그인시](./readme_assets/main/학생 로그인시.gif)
+![학생로그인시](./readme_assets/main/학생 로그인시.gif){:width="450px"}
 
 - 로그인 시 메인 메뉴에서 학교 정보를 확인 가능하다.
 
-![학교등록하기](./readme_assets/main/학교 등록하기.gif)
+![학교등록하기](./readme_assets/main/학교 등록하기.gif){:width="450px"}
 
 - 학생은 가입 후 학교 등록, 승인 이후 이용이 가능하다.
 
-![학부모등록코드](./readme_assets/main/학부모 등록코드.gif)
-![자녀등록하기](./readme_assets/main/자녀 등록하기.gif)
+![학부모등록코드](./readme_assets/main/학부모 등록코드.gif){:width="450px"}
+![자녀등록하기](./readme_assets/main/자녀 등록하기.gif){:width="450px"}
 
 - 학부모는 자녀가 발급받은 등록코드를 입력해 가입이 가능하다.
 
-![자녀변경](./readme_assets/main/자녀 변경.gif)
+![자녀변경](./readme_assets/main/자녀 변경.gif){:width="450px"}
 
 - 학부모는 자녀가 여러명일 경우 변경이 가능하다.
 
