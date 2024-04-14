@@ -50,19 +50,19 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCe_EKBfHmQkW8CVh2KmQ2GDvwRxZbaeVA',
-    appId: '1:261580797567:android:f1c67280c831b64d73f14a',
-    messagingSenderId: '261580797567',
-    projectId: 'everyschool-10f65',
-    storageBucket: 'everyschool-10f65.appspot.com',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyC7e36qLvpWyoG0RDzuxNj-evh7278vlxE',
-    appId: '1:261580797567:ios:d417bd0ac2a4487973f14a',
-    messagingSenderId: '261580797567',
-    projectId: 'everyschool-10f65',
-    storageBucket: 'everyschool-10f65.appspot.com',
-    iosBundleId: 'com.everyschool.everyschool',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 }
